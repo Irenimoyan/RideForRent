@@ -172,6 +172,7 @@ ion-icon {
   border: 1px solid black;
   color: blue;
   box-shadow: 0 4rem 6rem rgb(0 0 0 / 30%);
+  padding: -20px;
 }
 
 #rent-now:hover{
