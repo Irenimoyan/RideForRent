@@ -82,20 +82,25 @@ li:hover{
         /* height: -10%; */
     }
     h3{
-        color:whitesmoke;
+        color:darkslategray;
         font-size: 60px;
-        margin-bottom: 50px;
+        margin-bottom: -10px;
     
     }
+    #Sign{
+      float: right;
+      padding-left: 10px;
+      padding-right: 10px;
+    }
     h2{
-      color: white;
-      font-size: 60px;
-      margin-bottom: 50px;
+      color: darkslategray;
+      font-size: 50px;
+      margin-bottom: -20px;
     
     }
     .lamb{
-      color:black;
-      margin-bottom: 30%;
+      color:darkslategrey;
+      margin-bottom: 1%;
     }
     i, em{
       text-decoration-line: underline;
@@ -142,6 +147,11 @@ li:hover{
 
 .deals{
   text-align: center;
+
+}
+
+h5{
+  font-size: 30px;
 }
 
 .row{
@@ -198,6 +208,7 @@ ion-icon {
 }
 #container{
   background-color: lightgrey;
+  border: transparent;
 }
 #reviews{
   margin-top: 20px;
